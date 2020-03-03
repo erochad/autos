@@ -1,2 +1,2 @@
 # autos
-This project aims to create code for manual tasks automation
+This project aims to create code using both Mainframe languages (COBOL, REXX, SAS ) and PYTHON for manual tasks automation 
